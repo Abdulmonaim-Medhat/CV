@@ -8,8 +8,8 @@ I'm a passionate DevOps engineer with hands-on experience in cloud infrastructur
 
 ## 💼 Experience
 
-### 🚀 Software Delivery Engineer — Huawei  
-📍 Giza, Egypt | 🗓️ 2024 – Present  
+### 🚀 DevOps Engineer — Huawei  
+📍 Giza, Egypt | 🗓️ Oct 2024 – Present  
 - Delivered Huawei's CBS (Charging and Billing System) end-to-end for enterprise clients.  
 - Built and maintained CI/CD pipelines for scalable software delivery.  
 - Worked with cross-functional teams to integrate and optimize customer billing systems.  
